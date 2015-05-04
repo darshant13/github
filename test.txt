@@ -22,3 +22,6 @@ This is the last commit
 
 
 The new feature has been made by master repository
+
+=======================
+again new feature has been created
